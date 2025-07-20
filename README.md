@@ -21,12 +21,11 @@ I believe in **clean syntax**, **elegant logic**, and the sacred power of the **
 ## 📊 My Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=npshetty25&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npshetty25&layout=compact&theme=tokyonight&cache_seconds=3600&hide_border=true&border_radius=10" alt="Top Languages" />
 </p>
-
 ---
 
 ## 🌐 Let's Connect
@@ -37,3 +36,10 @@ I believe in **clean syntax**, **elegant logic**, and the sacred power of the **
 Or just drop a ⭐ on a repo — we’ll call it even 😉
 
 ---
+<!-- Floating One Piece SVG Art -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/npshetty25/npshetty25/main/assets/luffy.svg" width="80" alt="Luffy" style="margin-right: 40px;" />
+  <img src="https://raw.githubusercontent.com/npshetty25/npshetty25/main/assets/zoro.svg" width="80" alt="Zoro" style="margin-right: 40px;" />
+  <img src="https://raw.githubusercontent.com/npshetty25/npshetty25/main/assets/chopper.svg" width="80" alt="Chopper" />
+</p>
