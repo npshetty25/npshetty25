@@ -1,30 +1,3 @@
-<p align="center">
-  <svg width="200" height="200" viewBox="0 0 200 200">
-    <!-- Chopper's hat (simplified) -->
-    <ellipse cx="100" cy="80" rx="70" ry="35" fill="#f8b3af">
-      <animate attributeName="cy" values="75;85;75" dur="4s" repeatCount="indefinite"/>
-    </ellipse>
-    <ellipse cx="100" cy="90" rx="65" ry="25" fill="#ffedd0" opacity="0.7">
-      <animate attributeName="cy" values="85;95;85" dur="4s" repeatCount="indefinite"/>
-    </ellipse>
-    <!-- Chopper's face -->
-    <ellipse cx="100" cy="120" rx="40" ry="35" fill="#ffe5c4">
-      <animate attributeName="cy" values="115;125;115" dur="4s" repeatCount="indefinite"/>
-    </ellipse>
-    <!-- Eyes -->
-    <ellipse cx="85" cy="120" rx="6" ry="8" fill="#473b2a"/>
-    <ellipse cx="115" cy="120" rx="6" ry="8" fill="#473b2a"/>
-    <!-- Nose -->
-    <ellipse cx="100" cy="132" rx="5" ry="4" fill="#f8b3af"/>
-    <!-- Smile -->
-    <path d="M90 138 Q100 148 110 138" stroke="#473b2a" stroke-width="2" fill="none"/>
-    <!-- Hat cross -->
-    <rect x="93" y="65" width="14" height="4" rx="2" fill="#fff"/>
-    <rect x="98" y="60" width="4" height="14" rx="2" fill="#fff"/>
-    <!-- Floating animation for all -->
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-10; 0,0" dur="4s" repeatCount="indefinite"/>
-  </svg>
-</p>
 
 <!-- README.md for Nirav's GitHub Profile -->
 
@@ -55,6 +28,9 @@ I believe in **clean syntax**, **elegant logic**, and the sacred power of the **
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npshetty25&layout=compact&theme=tokyonight&cache_seconds=3600&hide_border=true&border_radius=10" alt="Top Languages" />
 </p>
 ---
+## 🗺️ Activity Map 
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=npshetty25&theme=rogue&custom_title=🧭%20Tracking%20My%20GitHub%20Voyage&bg_color=1e1e1e&color=f1c40f&line=da0037&point=00b8d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Let's Connect
 
