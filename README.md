@@ -31,7 +31,9 @@ I believe in **clean syntax**, **elegant logic**, and the sacred power of the **
 
 ## 🌐 Let's Connect
 
-
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/nirav-shetty-71a707370/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nirav Shetty" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- Instagram: <a href="https://www.instagram.com/niravshetty2005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nirav Shetty" height="30" width="40" /></a>
+</p>
 Or just drop a ⭐ on a repo — we’ll call it even 😉
 
 ---
