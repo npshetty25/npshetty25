@@ -1,3 +1,31 @@
+<p align="center">
+  <svg width="200" height="200" viewBox="0 0 200 200">
+    <!-- Chopper's hat (simplified) -->
+    <ellipse cx="100" cy="80" rx="70" ry="35" fill="#f8b3af">
+      <animate attributeName="cy" values="75;85;75" dur="4s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="100" cy="90" rx="65" ry="25" fill="#ffedd0" opacity="0.7">
+      <animate attributeName="cy" values="85;95;85" dur="4s" repeatCount="indefinite"/>
+    </ellipse>
+    <!-- Chopper's face -->
+    <ellipse cx="100" cy="120" rx="40" ry="35" fill="#ffe5c4">
+      <animate attributeName="cy" values="115;125;115" dur="4s" repeatCount="indefinite"/>
+    </ellipse>
+    <!-- Eyes -->
+    <ellipse cx="85" cy="120" rx="6" ry="8" fill="#473b2a"/>
+    <ellipse cx="115" cy="120" rx="6" ry="8" fill="#473b2a"/>
+    <!-- Nose -->
+    <ellipse cx="100" cy="132" rx="5" ry="4" fill="#f8b3af"/>
+    <!-- Smile -->
+    <path d="M90 138 Q100 148 110 138" stroke="#473b2a" stroke-width="2" fill="none"/>
+    <!-- Hat cross -->
+    <rect x="93" y="65" width="14" height="4" rx="2" fill="#fff"/>
+    <rect x="98" y="60" width="4" height="14" rx="2" fill="#fff"/>
+    <!-- Floating animation for all -->
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-10; 0,0" dur="4s" repeatCount="indefinite"/>
+  </svg>
+</p>
+
 <!-- README.md for Nirav's GitHub Profile -->
 
 <h1 align="center">Hey, I'm Nirav 👋 — welcome to my corner of the internet!</h1>
@@ -36,10 +64,3 @@ I believe in **clean syntax**, **elegant logic**, and the sacred power of the **
 Or just drop a ⭐ on a repo — we’ll call it even 😉
 
 ---
-<!-- Floating One Piece SVG Art -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/npshetty25/npshetty25/main/assets/luffy.svg" width="80" alt="Luffy" style="margin-right: 40px;" />
-  <img src="https://raw.githubusercontent.com/npshetty25/npshetty25/main/assets/zoro.svg" width="80" alt="Zoro" style="margin-right: 40px;" />
-  <img src="https://raw.githubusercontent.com/npshetty25/npshetty25/main/assets/chopper.svg" width="80" alt="Chopper" />
-</p>
