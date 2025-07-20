@@ -20,18 +20,20 @@ I believe in **clean syntax**, **elegant logic**, and the sacred power of the **
 ---
 
 ## 📊 My Stats
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=npshetty25)
+---
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=npshetty25&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npshetty25&layout=compact&theme=tokyonight&cache_seconds=3600&hide_border=true&border_radius=10" alt="Top Languages" />
 </p>
+
+# 🗺️ Activity Map — My Grand Line Journey
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=npshetty25&theme=rogue&custom_title=🧭%20Tracking%20My%20GitHub%20Voyage&bg_color=1e1e1e&color=f1c40f&line=da0037&point=00b8d4&area=true&hide_border=true)
+
 ---
-## 🗺️ Activity Map 
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=npshetty25&theme=rogue&custom_title=🧭%20Tracking%20My%20GitHub%20Voyage&bg_color=1e1e1e&color=f1c40f&line=da0037&point=00b8d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🌐 Let's Connect
 
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/nirav-shetty-71a707370/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nirav Shetty" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
