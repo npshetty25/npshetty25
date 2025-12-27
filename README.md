@@ -26,7 +26,10 @@ I believe in **clean syntax**, **elegant logic**, and the sacred power of the **
   <img src="https://streak-stats.demolab.com/?user=npshetty25&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 <p align="center">
-<img align="right" src="https://github-stats-git-custom-panosru.vercel.app/api/top-langs/?username=panosru&langs_count=20&layout=compact&count_private=true&hide_border=true&locale=en&exclude_repo=github-readme-stats,panosru, cockpit_GROUPS,jamesgeorge007,hedythedev,katerina-web,.net-rnd-i18n,php-censor,framework,BetterReflection,docker-php-censor,protos,node-jinjs,protos-docs,OxyNode" alt="Top Langs" /></p>
+      <a href="https://github.com/npshetty25"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+
+</p>
 
 # 🗺️ Activity Map — My Grand Line Journey
 
