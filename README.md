@@ -32,8 +32,14 @@ I believe in **clean syntax**, **elegant logic**, and the sacred power of the **
 </p>
 
 # 🗺️ Activity Map — My Grand Line Journey
+<a href="https://github.com/npshetty25/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=npshetty25&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/npshetty25/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=npshetty25&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=npshetty25&theme=rogue&custom_title=🧭%20Tracking%20My%20GitHub%20Voyage&bg_color=1e1e1e&color=f1c40f&line=da0037&point=00b8d4&area=true&hide_border=true)
 
 ---
 ## 🌐 Let's Connect
