@@ -1,7 +1,7 @@
 
 <!-- README.md for Nirav's GitHub Profile -->
 
-<h1 align="center">Hey, I'm Nirav 👋 — welcome to my corner of the internet!</h1>
+<h1 align="center">Hey, I'm Nirav 👋 — welcome to my corner of the internet! </h1>
 
 <p align="center"><i>Not perfect, but compiling.</i></p>
 
